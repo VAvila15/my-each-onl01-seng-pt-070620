@@ -7,7 +7,4 @@ def my_each(array)
       i=i+1
     end
     array
-  else
-    puts "4"
-  end
-end
+ end
